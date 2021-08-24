@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "844043943357",
+    "project_id": "chess-clock-9320f",
+    "storage_bucket": "chess-clock-9320f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844043943357:android:da3fa570ae1f0cec72e6d4",
+        "android_client_info": {
+          "package_name": "com.krawalstudios.chessclock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844043943357-e22qnn0i0n4kqh57pc5ovcoida8aoihv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krawalstudios.chessclock",
+            "certificate_hash": "08fd49a7f101941c55ca4e708300924010fea180"
+          }
+        },
+        {
+          "client_id": "844043943357-qdodmqj2l2f18ioj6bfpq8cqidju0url.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZR51TXU9PNQ7Vl3CLuMB9gNXpM-N4wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844043943357-qdodmqj2l2f18ioj6bfpq8cqidju0url.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
